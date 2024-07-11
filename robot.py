@@ -29,7 +29,7 @@ stop()
 print("Connecting to the server...")
 
 # Socket client setup
-host = 'your-mac-ip-address'  # Replace with your Mac's IP address
+host = 'your-mac-ip-address'
 port = 4444
 
 try:
